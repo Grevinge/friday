@@ -1,0 +1,72 @@
+[
+  {
+    "CPR": "220471-5377",
+    "firstName": "Lars",
+    "lastName": "Larsen",
+    "roadName": "Tilbudsvej",
+    "roadNumber": 26,
+    "initialLoan": 250000,
+    "InterestRate": 21,
+    "currentDebt": 416000
+  },
+  {
+    "CPR": "190466-3681",
+    "firstName": "Per",
+    "lastName": "Staldknægt",
+    "roadName": "Hestevej",
+    "roadNumber": 12,
+    "initialLoan": 7000,
+    "InterestRate": 16,
+    "currentDebt": 8400
+  },
+  {
+    "CPR": "150342-3618",
+    "firstName": "Sonja",
+    "lastName": "Ritter",
+    "roadName": "Cykelsmøgen",
+    "roadNumber": 6,
+    "initialLoan": 4500,
+    "InterestRate": 11,
+    "currentDebt": 1600
+  },
+  {
+    "CPR": "200100-1618",
+    "firstName": "Lene",
+    "lastName": "Jensen",
+    "roadName": "Horsager",
+    "roadNumber": 9,
+    "initialLoan": 17000,
+    "InterestRate": 9,
+    "currentDebt": 14300
+  },
+  {
+    "CPR": "150699-5050",
+    "firstName": "Henriette",
+    "lastName": "Jørgesen",
+    "roadName": "Jægersborggade",
+    "roadNumber": 17,
+    "initialLoan": 9000,
+    "InterestRate": 32,
+    "currentDebt": 11400
+  },
+  {
+    "CPR": "161097-1313",
+    "firstName": "Jens",
+    "lastName": "Frederiksen",
+    "roadName": "Nyvej",
+    "roadNumber": 10,
+    "initialLoan": 6500,
+    "InterestRate": 23,
+    "currentDebt": 7250
+  },
+  {
+    "CPR": "311299-1947",
+    "firstName": "Magnus",
+    "lastName": "Tagmus",
+    "roadName": "Hørvej",
+    "roadNumber": 1,
+    "initialLoan": 11500,
+    "InterestRate": 27,
+    "currentDebt": 14500
+  }
+]
